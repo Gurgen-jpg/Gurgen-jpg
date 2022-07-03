@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gurgen-jpg
-- 👀 I’m interested in JS code
-- 🌱 I’m currently learning javaScript
-- 💞️ I’m looking to collaborate on ..., I don`t know yet.
+- 👀 I’m interested in JS, React, Typescript, React Native
+- 🌱 I’m currently learning javaScript & typescripte
+- 💞️ I`m working a frontend developer
 - 📫 How to reach me - on mail gsarkisdganyan@gmail.com
 
 <!---
